@@ -24,6 +24,6 @@ This project transforms raw historical Olympic data (`athlete_events.csv`) into 
  ┃ ┣ 📂 data
  ┃ ┃ ┣ 📜 app.py               # Main Streamlit frontend script
  ┃ ┃ ┣ 📜 helper.py            # Backend logic, data filtering, and plotting functions
- ┃ ┃ ┗ 📜 athlete_events.csv   # Raw Olympic historical dataset
- ┃ ┗ 📜 requirements.txt       # Project dependencies
+ ┃ ┃ ┗ 📜 athlete_events.csv   # Project dependencies
+ ┃ ┗ 📜 requirements.txt      
  ┗ 📜 README.md
